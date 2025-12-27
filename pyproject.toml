@@ -20,5 +20,6 @@ dev = [
     "mypy>=1.19.1",
     "pandas-stubs>=2.3.3.251219",
     "pytest>=9.0.2",
+    "types-requests>=2.32.4.20250913",
     "types-seaborn>=0.13.2.20251221",
 ]
