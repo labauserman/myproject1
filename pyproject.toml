@@ -1,0 +1,21 @@
+[project]
+name = "myproject1"
+version = "0.1.0"
+description = "Trying uv venv setups"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.127.1",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "plotly>=6.5.0",
+    "pytest>=9.0.2",
+    "requests>=2.32.5",
+    "rich>=14.2.0",
+    "seaborn>=0.13.2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]
