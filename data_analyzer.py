@@ -11,6 +11,7 @@ def load_data():
 def analyze_data(df):
     """Step 2: Explore the statistics."""
 
+    # what are the columns in the dataset?
     print(titanic_df.columns.tolist())
     
     print("\n--- Basic Stats ---")
