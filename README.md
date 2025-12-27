@@ -1,3 +1,4 @@
+![CI Status](https://github.com/labauserman/myproject1/actions/workflows/ci.yml/badge.svg)
 # 🚢 Titanic Data Analyzer
 
 A lightweight Python project exploring the Titanic dataset using **Pandas** and **Seaborn**. This project analyzes survival rates based on passenger class and gender. This is really an exploartion of using Gemini as a guide to getting uv setup on a new MacBook. 
