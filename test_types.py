@@ -5,4 +5,4 @@ def add_numbers(a: int, b: int) -> int:
 result = add_numbers(4, 5)
 
 # This should show an error - wrong type assignment
-x: int = "not a number"
+x: int = 10
