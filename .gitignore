@@ -8,5 +8,23 @@ wheels/
 
 # Virtual environments
 .venv
+.venv/
+ENV/
+
+
 requirements.txt
 type_playground.py
+
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# uv specific
+.uv/
+
+# macOS system files
+.DS_Store
+
+# MCP / Environment Secrets
+.env
